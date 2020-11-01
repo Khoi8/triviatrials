@@ -45,7 +45,6 @@ export default function Home() {
         </ThemeProvider>
       </div>
       <Button variant = 'contained' className={classes.button}> Start game </Button>
-      <Button variant = 'contained' className={classes.button}> View Scores </Button>
     </div>
   );
 }
